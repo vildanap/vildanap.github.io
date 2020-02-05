@@ -2,7 +2,7 @@
 
 ---
 
-[Travel review app](/sample_page)
+[Travel review web application](/sample_page)
 - microservice web application
 - React, Java Spring, MySQL, Docker
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
