@@ -1,8 +1,8 @@
-## This can be your internal website page / project page
+## Travel review
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The Travel Review website is for all users who want to get all the information about cities around the world in one easy way and in one place. The site allows users to share their experiences about visited cities with other users, which is made possible by leaving reviews. The review consists of entering comments/observations, photos, and ratings by different criteria, such as gastronomic offer, cultural and artistic content, nightlife, transportation, etc. Based on user reviews, the site gives an insight into the best or worst rated cities. The site distinguishes three types of users: administrator, registered user and guest.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Microservices architecture
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,20 +12,12 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### Security
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Security was implemented on the application using the Oauth2 specification. Oauth2 involves creating an Authorization Server that will authenticate the user and assign a token to him later to access other Resource Servers.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Docker
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more implementation details see [GitHub project](https://github.com/vildanap/NWT_Tim2).
