@@ -2,13 +2,17 @@
 
 ---
 
-### Category Name 1 
+###  
 
-[Project 1 Title](/sample_page)
+[Travel review app](/sample_page)
+- microservice web application
+- React, Java Spring, MySQL, Docker
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Real-estate app](/pdf/sample_presentation.pdf)
+- mobile development, UI patterns
+- Android, Java Spring, MySQL
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
