@@ -11,7 +11,7 @@
 ## [Real-estate app]()
 - **Mobile development, Mobile Design patterns**
 - **Android, Java Spring, MySQL**
-<img src="images/real_estate_combined.PNG"/>
+<img src="images/real_estate_combined.jpg"/>
 
 
 ---
