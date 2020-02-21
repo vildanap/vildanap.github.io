@@ -1,21 +1,21 @@
-## Portfolio
+# Portfolio
 
 ---
 
-[Travel review web application](/sample_page)
-- microservice web application
-- React, Java Spring, MySQL, Docker
+[## Travel review web application](/sample_page)
+- **microservice web application**
+- **React, Java Spring, MySQL, Docker**
 <img src="images/front_travel_review.PNG"/>
 
 ---
-[Real-estate app]()
-- mobile development, Mobile Design patterns
-- Android, Java Spring, MySQL
+[## Real-estate app]()
+- **mobile development, Mobile Design patterns**
+- **Android, Java Spring, MySQL**
 <img src="images/realestate_home.PNG"/>
-<img src="images/real_estate_advert.PNG"/>
+<img src="images/favourite_real_estate.PNG"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[## Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
