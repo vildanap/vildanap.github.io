@@ -15,8 +15,10 @@
 
 
 ---
-## [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [H1B Visa Prediction](http://example.com/)
+- **Decision Support System, Machine Learning Algorithms, Data visualization**
+- **KNIME, Python**
+<img src="h1B visa prediction.PNG?raw=true"/>
 
 ---
 
