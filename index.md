@@ -5,13 +5,14 @@
 [Travel review web application](/sample_page)
 - microservice web application
 - React, Java Spring, MySQL, Docker
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/front_travel_review.PNG?raw=true"/>
 
 ---
-[Real-estate app](/pdf/sample_presentation.pdf)
-- mobile development, UI patterns
+[Real-estate app]()
+- mobile development, Mobile Design patterns
 - Android, Java Spring, MySQL
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/realestate_home.PNG"/>
+<img src="images/real_estate_advert.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
