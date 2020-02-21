@@ -18,7 +18,7 @@
 ## [H1B Visa Prediction](http://example.com/)
 - **Decision Support System, Machine Learning Algorithms, Data visualization**
 - **KNIME, Python**
-<img src="h1B.PNG?raw=true"/>
+<img src="h1B.PNG"/>
 
 ---
 
