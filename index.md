@@ -5,7 +5,7 @@
 [Travel review web application](/sample_page)
 - microservice web application
 - React, Java Spring, MySQL, Docker
-<img src="images/front_travel_review.PNG?raw=true"/>
+<img src="images/front_travel_review.PNG"/>
 
 ---
 [Real-estate app]()
