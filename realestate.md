@@ -37,5 +37,7 @@ The activities that the application should support are:
 > In the case of a real estate search, the user should be exempted from entering all required fields. So the price slider is set to include all possible values, or by default all cities (All within the drop-down list) and all settlements are enabled in the search. This allows the user to change only the search parameters that are most important to him, without causing an error.
 
 More implementation details on:
-- [FE Github repository] (https://github.com/vildanap/realestateUI)
-- [BE Github repository] (https://github.com/vildanap/real_estate)
+https://github.com/vildanap/realestateUI!
+[FE Github repository] (https://github.com/vildanap/realestateUI)
+https://github.com/vildanap/real_estate!
+[BE Github repository] (https://github.com/vildanap/real_estate)
