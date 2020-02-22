@@ -19,7 +19,7 @@ Microservices communicate with each other using **Eureka server (registry server
 
 A unified proxy interface that will delegate the calls to various microservices based on a URL pattern has been created (Zuul proxy). An API Gateway using **Spring Cloud Zuul Proxy** was also needed for security implenetation. Typically OAuth service for authentication and authorization is used for microservices, so user is only once authenticated and can later on make requests to other microservices separately. Using Zuul Filter AUTH HEADER will be forwarded to downstream services.
 
-![Microservice architecture](/images/travel review.PNG)
+![Microservice architecture](/images/travel review.png)
 
 
 ### Security
