@@ -10,25 +10,25 @@ The application has been developed as a set of mini applications, which are deve
 
 The first step was to identify individual components of Travel review application system, which will be developed independetly and have their set of responsibilities (modular approach). Identified were four components:
 
-1. _Identity microservice: user management system and authentication
-2. _Location microservice: city management system (CRUD city)
-3. _Review microservice: review management system (CRUD review)
-4. _Image microservice: image management system (CRUD image)
+1. _Identity microservice: user management system and authentication_
+2. _Location microservice: city management system (CRUD city)_
+3. _Review microservice: review management system (CRUD review)_
+4. _Image microservice: image management system (CRUD image)_
 
-Microservices communicate with each other using _Eureka server (registry server)_ and should be register inside Eureka server by unique name e.g. {nwt2_identity_ms}. After registered calling service fetches the registry from Eureka server and gets the instance of downstream service and gets data calling REST endpoint. 
+Microservices communicate with each other using **Eureka server (registry server)** and should be register inside Eureka server by unique name e.g. {nwt2_identity_ms}. After registered calling service fetches the registry from Eureka server and gets the instance of downstream service and gets data calling REST endpoint. 
 
-A unified proxy interface that will delegate the calls to various microservices based on a URL pattern has been created (Zuul proxy). An API Gateway using _Spring Cloud Zuul Proxy_ was also needed for security implenetation. Typically OAuth service for authentication and authorization is used for microservices, so user is only once authenticated and can later on make requests to other microservices separately. Using Zuul Filter AUTH HEADER will be forwarded to downstream services.
+A unified proxy interface that will delegate the calls to various microservices based on a URL pattern has been created (Zuul proxy). An API Gateway using **Spring Cloud Zuul Proxy** was also needed for security implenetation. Typically OAuth service for authentication and authorization is used for microservices, so user is only once authenticated and can later on make requests to other microservices separately. Using Zuul Filter AUTH HEADER will be forwarded to downstream services.
 
-![Microservice architecture](/images/travel_review.PNG)
+![Microservice architecture](/images/travel review.PNG)
 
 
 ### Security
 
-Security was implemented on the application using the _Oauth2_ specification. Oauth2 involves creating an Authorization Server that will authenticate the user and assign a JWT token to him, later to access other Resource Servers. Authorization Server is implemented inside identity microservice since it covers user management system.
+Security was implemented on the application using the **Oauth2 specification**. Oauth2 involves creating an Authorization Server that will authenticate the user and assign a JWT token to him, later to access other Resource Servers. Authorization Server is implemented inside identity microservice since it covers user management system.
 
 ### Docker
 
-Development and deployment effort for microservices architecture based applications is lately eased by Docker technology. Application is deployed using Docker tehnology. Each microservice contains a docker file containing the corresponding maven .jar executable file.
+Development and deployment effort for microservices architecture based applications is lately eased by **Docker technology**. Application is deployed using Docker tehnology. Each microservice contains a docker file containing the corresponding maven .jar executable file.
 After a docker image is created for each service, the application is deployed via the docker compose which results in the lifting of all containers defined in its structure (docker-compose.yml).
 
 
