@@ -8,9 +8,13 @@ Some of the benefits to users are:
 - making it easier for agencies and individuals to find a buyer,
 - reducing the time that the property will be rented or for sale. 
 
-![Real estate](/images/real_estate_combined.PNG)
+![Real estate](/images/real_estate_combined.jpg)
 
 **Project goal**: The focus of the project was on user interaction design and mobile design patterns.
+
+Retrofit 2 library was used for creating HTTP request and for processing HTTP response from a REST API.
+
+![Real estate](/images/retrofit.png)
 
 **Functionalities**:
 The activities that the application should support are:
@@ -33,6 +37,8 @@ The activities that the application should support are:
 > Within the Home screen, the content is divided into tabs. It is not important for the user to immediately see all the ads, for example, only those that are for rent or for sale. This makes it easier to organize the space on the small screen.
 - **Commands and actions: Output button highlighted, Progress indicator**
 > Green letters were used for confirmation, while canceling / canceling was indicated in blue. This avoids the user clicking on a link or message by mistake, and clearly indicates that the action is completed.
+![Real estate](/images/additional confirmation.PNG)
+![Real estate](/images/progress indicator.PNG)
 - **Data entry: Good default values**
 > In the case of a real estate search, the user should be exempted from entering all required fields. So the price slider is set to include all possible values, or by default all cities (All within the drop-down list) and all settlements are enabled in the search. This allows the user to change only the search parameters that are most important to him, without causing an error.
 
