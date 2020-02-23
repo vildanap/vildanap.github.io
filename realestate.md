@@ -42,14 +42,6 @@ The activities that the application should support are:
 
 Reference: [Mobile Design Pattern Gallery, O'Reilly Media](http://shop.oreilly.com/product/0636920029311.do)
 
-__Additional confirmation for DELETE action required__
-
-![Real estate](/images/additional confirmation.PNG) 
-
-__During image loading used progress indicator__
-
-![Real estate](/images/progress indicator.PNG)
-
 ---
 More implementation details on:
 
