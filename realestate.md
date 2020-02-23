@@ -40,14 +40,16 @@ The activities that the application should support are:
 - **Data entry: Good default values**
 > In the case of a real estate search, the user should be exempted from entering all required fields. So the price slider is set to include all possible values, or by default all cities (All within the drop-down list) and all settlements are enabled in the search. This allows the user to change only the search parameters that are most important to him, without causing an error.
 
+Reference: [Mobile Design Pattern Gallery, O'Reilly Media](http://shop.oreilly.com/product/0636920029311.do)
 
-_Prevention of error commiting - additional confirmation for DELETE action required_
-![Real estate](/images/additional confirmation.PNG) <br>
+__Prevention of error commiting - additional confirmation for DELETE action required__
 
-_During image loading used progress indicator_
+![Real estate](/images/additional confirmation.PNG) 
+
+__During image loading used progress indicator__
+
 ![Real estate](/images/progress indicator.PNG)
 
-Reference: [Mobile Design Pattern Gallery, O'Reilly Media](http://shop.oreilly.com/product/0636920029311.do)
 ---
 More implementation details on:
 
