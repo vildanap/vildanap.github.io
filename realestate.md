@@ -38,6 +38,6 @@ The activities that the application should support are:
 
 More implementation details on:
 
-[FE GitHub project] (https://github.com/vildanap/realestateUI)
+[FE GitHub project](https://github.com/vildanap/real_estate)
 
-[BE GitHub project] (https://github.com/vildanap/real_estate)
+[BE GitHub project](https://github.com/vildanap/realestateBE)
