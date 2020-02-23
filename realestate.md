@@ -8,7 +8,7 @@ Some of the benefits to users are:
 - making it easier for agencies and individuals to find a buyer,
 - reducing the time that the property will be rented or for sale. 
 
-![Real estate](/images/real estate.PNG)
+![Real estate](/images/real_estate_combined.PNG)
 
 **Project goal**: The focus of the project was on user interaction design and mobile design patterns.
 
