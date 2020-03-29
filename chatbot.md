@@ -2,7 +2,7 @@
 
 **Motivation:** Today, most businesses struggle to support their customers. The time and relevance of information have a huge impact on customer support, and due to the increasing presence and use of mobile devices, communication with a favorite brand via chat has become a part of everyday life. To save time, many are opting to deploy a chatbot that should be the first line of customer support. Rule-based chatbots are a thing of the past, and there is a growing focus on making chatbots as similar as possible to humans, which is why the use of artificial intelligence has found tremendous use in this regard.
 
-![Chatbot](/images/bot_main.PNG)   ![Chatbot](/images/metting.PNG) 
+![Chatbot](/images/metting.PNG) 
 
 **Project description:** There is a large variety of AI Chatbot solutions on the market, including Google Dialogflow. Using the Dialogflow API, it became possible to integrate the AI chatbot solution with existing web and mobile applications. Within this project, the implementation of a mobile chatbot application will be demonstrated within which the Dialogflow SDK will be integrated.
 
