@@ -24,9 +24,9 @@ For each of the possible scenarios, the Dialogflow agent is trained with possibl
 
 For queries that require dynamic responses, such as scenario three, when searching for the status of a loyalty card, the agent will first need to ask the user for his card ID and then retrieve the number of points from the database.
 
-If you want to dynamically create an appointment in Google Calendar via a chatbot, it will be necessary for the user to respond to queries about the date and time, after which he or she will be scheduled to make an appointment using the Google Calendar API.
+If you want to dynamically create an appointment in Google Calendar via a chatbot, it will be necessary for the user to respond to queries about the date and time, after which appointment will be scheduled using the Google Calendar API.
 
-A detailed description of how the scenario works is shown in the graph below.
+A detailed description of how the scenarios work is shown in the graph below.
 
 ![use case](/images/dialogflow.png)
 
