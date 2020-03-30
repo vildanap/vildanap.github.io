@@ -15,16 +15,16 @@
 ### Scenario
 
 There are three possible scenarios within a chatbot:
-1. Question about working hours
-2. Schedule an appointment
-3. Loyalty points check
+**1. Question about working hours**
+**2. Schedule an appointment**
+**3. Loyalty points check**
 
 For each of the possible scenarios, the Dialogflow agent is trained with possible user queries, such as queries:
-"Are you still open?" and "When do you close," the agent will map the user query with Intent -> working_hours.
+__"Are you still open?"__ and __"When do you close?"__ the agent will map the user query with __Intent -> working_hours__.
 
-For queries that require dynamic responses, such as scenario three, when searching for the status of a loyalty card, the agent will first need to ask the user for his card ID and then retrieve the number of points from the database.
+For queries that require dynamic responses, such as scenario three, when searching for the status of a loyalty card, the agent will first need to ask the user for his card ID and then retrieve the number of points from the **database**.
 
-If you want to dynamically create an appointment in Google Calendar via a chatbot, it will be necessary for the user to respond to queries about the date and time, after which appointment will be scheduled using the Google Calendar API.
+If you want to dynamically create an appointment in Google Calendar via a chatbot, it will be necessary for the user to respond to queries about the date and time, after which appointment will be scheduled using the **Google Calendar API**.
 
 A detailed description of how the scenarios work is shown in the graph below.
 
