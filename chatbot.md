@@ -15,9 +15,9 @@
 ### Scenario
 
 There are three possible scenarios within a chatbot:
-**1. Question about working hours**
-**2. Schedule an appointment**
-**3. Loyalty points check**
+__1. Question about working hours__
+__2. Schedule an appointment__
+__3. Loyalty points check__
 
 For each of the possible scenarios, the Dialogflow agent is trained with possible user queries, such as queries:
 __"Are you still open?"__ and __"When do you close?"__ the agent will map the user query with __Intent -> working_hours__.
