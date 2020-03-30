@@ -9,7 +9,7 @@
 ### Project setup
 
 
-![architecture](/images/graph_dialogflow.png)
+![architecture](/images/graph_dialogflow(1).png)
 
 
 ### Scenario
