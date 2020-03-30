@@ -16,7 +16,9 @@
 
 There are three possible scenarios within a chatbot:
 __1. Question about working hours__
+
 __2. Schedule an appointment__
+
 __3. Loyalty points check__
 
 For each of the possible scenarios, the Dialogflow agent is trained with possible user queries, such as queries:
