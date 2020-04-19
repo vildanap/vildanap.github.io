@@ -2,7 +2,7 @@
 
 ---
 ## [Dialogflow Chatbot](/chatbot)
-- **Mobile chatbot app**
+- **Mobile chatbot app solution - Customer support**
 - **Android, Dialogflow**
 <img src="images/graph_dialogflow (1).png"/>
 
@@ -13,14 +13,14 @@
 
 ---
 ## [Real-estate app](/realestate)
-- **Mobile development, Mobile Design patterns**
+- **Mobile development with focus on Mobile Design patterns**
 - **Android, Java Spring, MySQL**
 <img src="images/real_estate_combined.jpg"/>
 
 
 ---
 ## [H1B Visa Prediction](/pdf/H1B presentation.pptx)
-- **Decision Support System, Machine Learning Algorithms, Data visualization**
+- **Decision Support System for H1B Visa (USA), Machine Learning Algorithms, Data visualization**
 - **KNIME, Python**
 <img src="images/gif_h1b.gif"/>
 [Video link](https://drive.google.com/file/d/1lHMv7YHlBXLc1ChVJVR3aIKj83f34JPv/view)
