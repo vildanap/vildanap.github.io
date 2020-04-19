@@ -26,7 +26,7 @@ There are three possible scenarios within a chatbot, which are very common for s
 On the picture below, there is simple example of how typical customer thinks. As salon customer before scheduling an appointment, person will check its' loyalty points. Then in case it decides to schedule appointment with simply saying __"I want to schedule an appointment"__ and providing details such as date and time, will do it quickly and easy. No need to enter data in specific format like (23/02/2020 10:00 AM), but saying "tommorrow 10am". 
 The benefits are not only for this customer, but also for a salon and possibilty to integrate this solution with its Google Calendar, where customers will be able to simply schedule their appointments, with no human assistance. 
 
-![use case](/images/shopping.png)
+![use case](/images/Purple Shopping Decision Tree Chart.png)
 
 For each of the possible scenarios, the Dialogflow agent is trained with possible user queries, such as queries:
 __"Are you still open?"__ and __"When do you close?"__ the agent will map the user query with __Intent -> working_hours__. This means NLP behind Dialogflow maps similar sentence structures to customer's intent.
