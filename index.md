@@ -19,11 +19,12 @@
 
 
 ---
-## [H1B Visa Prediction](/pdf/H1B presentation.pptx)
+## [H1B Visa Prediction](/pdf/H1B presentation (12).pdf)
 - **Decision Support System for H1B Visa (USA), Machine Learning Algorithms, Data visualization**
 - **KNIME, Python**
 <img src="images/gif_h1b.gif"/>
-[Video link](/images/gif_h1b.gif)
+![Demo - prediction](https://mega.nz/file/jD5y3IQI#ajsq4Zr4ExQOZNfpq-Fzj8CXiGuzlYsr8K6kiiNB9rQ)
+![Demo - descriptive statistics](https://mega.nz/file/vH42VCQS#K0fomYkrbrSf8pk01AdbA6M6IkSWZzcIGh_GGtX0Uic)
 
 ---
 
