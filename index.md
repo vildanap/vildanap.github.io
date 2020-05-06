@@ -23,7 +23,7 @@
 - **Decision Support System for H1B Visa (USA), Machine Learning Algorithms, Data visualization**
 - **KNIME, Python**
 <img src="images/gif_h1b.gif"/>
-[Video link](https://drive.google.com/file/d/1lHMv7YHlBXLc1ChVJVR3aIKj83f34JPv/view)
+[Video link](/images/gif_h1b.gif)
 
 ---
 
