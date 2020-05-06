@@ -26,7 +26,8 @@ The activities that the application should support are:
 - an abbreviation for facilitating contacting the owner via email / phone,
 - editing and deleting user account account
 
-![Real estate](/images/menucombined.png)
+![Real estate](/images/menucombined.PNG)
+
 **Mobile design patterns**
 - **Navigation (mobile apps): Global navigation at the bottom**
 > With the help of global navigation at the bottom, the user has an overview of possible functionalities, only one touch away. To make it easier to navigate, the user always knows where he is (the title section and highlighting the section where the user is in color).
